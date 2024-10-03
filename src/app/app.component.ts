@@ -9,5 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angularBoostrap';
+  nsms = "ricardo candra sulebagati";
+  nim = "222102526";
+  title = "Angular Boostrap";
 }
